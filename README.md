@@ -17,6 +17,7 @@ Wejo is a simple chatbot powered by FastAPI that can:
 
 Place the project files in a directory:
 
+
 my_chatbot/
 ├─ __pycache__/
 ├─ main.py
@@ -81,3 +82,4 @@ Arithmetic
 🎈 Animated chat bubble background colors
 
 🖼 Custom background image for the chat interface
+
